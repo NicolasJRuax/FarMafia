@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">FarMafia</string>
+    <string name="pharmacy_icon">ic_pharmacy\n</string>
 </resources>
