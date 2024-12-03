@@ -1,17 +1,11 @@
 package com.myproyect.farmafia;
 
 
-import java.io.Serializable;
-
-public class Pharmacy implements Serializable {
+public class Pharmacy {
     private String name;
     private String phone;
     private double latitude;
     private double longitude;
-
-    public Pharmacy() {
-        // Required for Firestore
-    }
 
     public Pharmacy(String name, String phone, double latitude, double longitude) {
         this.name = name;
