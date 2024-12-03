@@ -35,6 +35,7 @@ dependencies {
 
     implementation(libs.appcompat)
     implementation(libs.material)
+    implementation ("androidx.recyclerview:recyclerview:1.3.0")
     implementation(libs.firebase.firestore)
     implementation(libs.play.services.maps)
     testImplementation(libs.junit)

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "371720966923",
+    "project_id": "farmafia-b5453",
+    "storage_bucket": "farmafia-b5453.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371720966923:android:daf66726bf666ea442c80e",
+        "android_client_info": {
+          "package_name": "com.myproyect.farmafia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUeDpwJBkvQqJxLa5fZxk3J-pejUm-CWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
